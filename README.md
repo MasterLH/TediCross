@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/MasterLH/TediCross)](https://repl.it/github/MasterLH/TediCross)
+
 TediCross
 =========
 TediCross is a bot which bridges a chat in [Telegram](https://telegram.org) with a channel in [Discord](https://discordapp.com/).
